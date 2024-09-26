@@ -1,6 +1,7 @@
 # Jobify
 
 ## Create New Next.js Project
+#Jobify is a NextJs project that allows users to manage and keep track of their job applications. It provides features such as user registration, login, logout, a demo user to try the app before registering, adding jobs, editing jobs, searching and filtering jobs, deleting jobs, tracking job status (pending, interview, declined), job types (remote, internship, full-time, part-time), updating user information, and a dashboard with bar and area charts. The application is designed to be fully responsive, providing a seamless experience across different devices.
 
 ```sh
 npx create-next-app@latest projectName
