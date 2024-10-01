@@ -1,3 +1,5 @@
+![Video Screen1727785424340](https://github.com/user-attachments/assets/4749f749-ef5f-49a8-b1ee-295bb7b66390)
+![Video Screen1727785450794](https://github.com/user-attachments/assets/37ae88f2-b8ca-47b6-900d-2c6c4f9a0bd7)
 # Jobify
 
 Jobify is a comprehensive job tracking application designed to help you manage your job search journey. It enables users to keep track of:
